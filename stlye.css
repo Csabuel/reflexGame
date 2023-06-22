@@ -15,12 +15,12 @@ h2{
     height: 70vh;
     border: 3px solid black;
     position: relative;
-    background-image: url(/12.webp)
+    background-image: url(12.webp)
 }
 
 .target{
     font-size: 0px;
-    background-image: url(/23.png);
+    background-image: url(23.png);
     width: 60px;
     height: 60px;
     border-radius: 25px;
